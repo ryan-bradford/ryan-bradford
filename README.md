@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A Full-Stack Developer Based in SF</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryan-bradford" alt="ryan-bradford" /></a> </p>
-
 - 🔭 I’m currently working on [Custom DJ Mappings](https://github.com/ryan-bradford/dj-code)
 
 - 🌱 I’m currently learning **Mixxx, Kubernetes**
 
-- 🤝 I’m work at [VMware](https://vmware.com)
+- 🤝 I work at [VMware](https://vmware.com)
 
 - 🧗‍♂️I'm passionate about **Rock Climbing, DJing, Cities Skylines**
 
-- 👨‍💻 All of my projects are available at [https://ryan-bradford.com](https://ryan-bradford.com)
+- 👨‍💻 All of my projects are available at [ryan-bradford.com](https://ryan-bradford.com)
 
 - 📫 How to reach me **ryanbradford333@gmail.com**
 
-- 📄 Know about my experiences [https://www.ryan-bradford.com/resume/resume.html](https://www.ryan-bradford.com/resume/resume.html)
+- 📄 Know about my experiences [RESUME](https://www.ryan-bradford.com/resume/resume.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
