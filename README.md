@@ -7,7 +7,7 @@
 
 - 🤝 I work at [VMware](https://vmware.com)
 
-- 🧗‍♂️I'm passionate about **Rock Climbing, DJing, Cities Skylines**
+- 🧗‍♂️I'm passionate about **Rock Climbing, DJing, Urban Design**
 
 - 👨‍💻 All of my projects are available at [ryan-bradford.com](https://ryan-bradford.com)
 
